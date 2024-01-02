@@ -512,6 +512,7 @@
 
 .header__logo-img {
     width: 150px;
+    padding-bottom: 10px;
 }
 
 .header__search {
@@ -1419,6 +1420,7 @@ i.home-product-item__like-icon-fill {
 }
 
 .footer__download-qr {
+    cursor: pointer;
     width: 80px;
     height: 80px;
     border: 1px solid var(--border-color);
